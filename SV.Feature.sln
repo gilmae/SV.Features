@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrangeVanilla.Utils.Feature", "StrangeVanilla.Utils.Feature\StrangeVanilla.Utils.Feature.csproj", "{9CC93A21-CBC5-425A-A952-A69459CD1056}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrangeVanilla.Framework.Feature", "StrangeVanilla.Framework.Feature\StrangeVanilla.Framework.Feature.csproj", "{9CC93A21-CBC5-425A-A952-A69459CD1056}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrangeVanilla.Utils.Feature.Test", "StrangeVanilla.Utils.Feature.Test\StrangeVanilla.Utils.Feature.Test.csproj", "{9FFEC381-17C5-4031-B9E8-22B52753A24F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrangeVanilla.Framework.Feature.Test", "StrangeVanilla.Framework.Feature.Test\StrangeVanilla.Framework.Feature.Test.csproj", "{9FFEC381-17C5-4031-B9E8-22B52753A24F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

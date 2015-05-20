@@ -1,4 +1,4 @@
-﻿namespace StrangeVanilla.Utils.Feature
+﻿namespace StrangeVanilla.Framework.Feature
 {
     using System.Web.Mvc;
     public class FeatureAttribute : ActionFilterAttribute

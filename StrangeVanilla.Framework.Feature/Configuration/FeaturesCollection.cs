@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace StrangeVanilla.Utils.Feature.Configuration
+namespace StrangeVanilla.Framework.Feature.Configuration
 {
     using System.Configuration;
 

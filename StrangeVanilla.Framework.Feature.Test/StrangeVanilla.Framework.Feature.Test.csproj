@@ -5,8 +5,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{9FFEC381-17C5-4031-B9E8-22B52753A24F}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>StrangeVanilla.Utils.Feature.Test</RootNamespace>
-    <AssemblyName>StrangeVanilla.Utils.Feature.Test</AssemblyName>
+    <RootNamespace>StrangeVanilla.Framework.Feature.Test</RootNamespace>
+    <AssemblyName>StrangeVanilla.Framework.Feature.Test</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -42,9 +42,9 @@
     <None Include="app.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\StrangeVanilla.Utils.Feature\StrangeVanilla.Utils.Feature.csproj">
+    <ProjectReference Include="..\StrangeVanilla.Framework.Feature\StrangeVanilla.Framework.Feature.csproj">
       <Project>{9CC93A21-CBC5-425A-A952-A69459CD1056}</Project>
-      <Name>StrangeVanilla.Utils.Feature</Name>
+      <Name>StrangeVanilla.Framework.Feature</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>

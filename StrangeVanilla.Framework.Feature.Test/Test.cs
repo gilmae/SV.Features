@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using System;
 
-namespace StrangeVanilla.Utils.Feature.Test
+namespace StrangeVanilla.Framework.Feature.Test
 {
 	[TestFixture ()]
 	public class FeaturesHelperTest
